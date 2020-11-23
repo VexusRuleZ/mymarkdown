@@ -1,23 +1,21 @@
-<article class="markdown-body">
+# Pinguine
 
-# [](#pinguine)Pinguine
-
-[![](https://user-content.gitlab-static.net/82e30871822df67c271577ef1a5eb7cb5563d481/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61312f46616c6b6c616e645f49736c616e64735f50656e6775696e735f33362e6a70672f33303070782d46616c6b6c616e645f49736c616e64735f50656e6775696e735f33362e6a7067)](https://user-content.gitlab-static.net/82e30871822df67c271577ef1a5eb7cb5563d481/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61312f46616c6b6c616e645f49736c616e64735f50656e6775696e735f33362e6a70672f33303070782d46616c6b6c616e645f49736c616e64735f50656e6775696e735f33362e6a7067)
+![Pingu](https://user-content.gitlab-static.net/82e30871822df67c271577ef1a5eb7cb5563d481/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61312f46616c6b6c616e645f49736c616e64735f50656e6775696e735f33362e6a70672f33303070782d46616c6b6c616e645f49736c616e64735f50656e6775696e735f33362e6a7067)
 
 Die Pinguine (Spheniscidae) sind eine Gruppe flugunfähiger [Seevögel](https://de.wikipedia.org/wiki/Meeresvogel) der [Südhalbkugel](https://de.wikipedia.org/wiki/S%C3%BCdhalbkugel) und bilden die einzige Familie in der Ordnung Sphenisciformes. Ihre stammesgeschichtliche Schwestergruppe bilden wahrscheinlich die Seetaucher (Gaviiformes) und Röhrennasen (Procellariiformes). Pinguine sind leicht von allen anderen Vögeln zu unterscheiden und in herausragender Weise an das Leben im Meer und in den teilweise extremen Kältezonen der Erde angepasst.
 
-## [](#spiele)Spiele
+## Spiele
 
-Folgende Browserspiele beinhalten **Pinguine** als Entities:
+Folgende Browserspiele beinhalten Pinguine als Entities:
 
 Spiel| Basis
 -|:-
-Zombies and Penguins|Flash Spiele 
+Zombies and Penguins|Flash Spiele
 Wild Push|Unity WebGL Spiele
 Penguin Avoids|HTML5
 Yetisports: Snowboard Freeride|HTML 5
 
-## [](#pinguin-gattungen)Pinguin-Gattungen
+## Pinguin-Gattungen
 
 *   Langschwanzpinguine
     *   Eselspinguin
@@ -35,14 +33,14 @@ Yetisports: Snowboard Freeride|HTML 5
     *   Felsenpinguin
     *   Tristanpinguin
 
-## [](#aufzucht)Aufzucht
+## Aufzucht
 
 Die Aufzucht der Jungen Pinguine lässt sich in zwei Phasen unterteilen:
 
 1.  In den ersten zwei bis Wochen werden die Kücken permanent von einem Elternteil beaufsichtigt.
-2.  Sobald die Jungtiere herangewachseln sind, beginnt die "Kindergarten"-Zeit. Die Jungen schliessen sich in Gruppen zusammen, während die Alttiere versuchen Nahrung herbeizuschaffen.
+1.  Sobald die Jungtiere herangewachseln sind, beginnt die "Kindergarten"-Zeit. Die Jungen schliessen sich in Gruppen zusammen, während die Alttiere versuchen Nahrung herbeizuschaffen.
 
-## [](#welt-pinguin-tag)Welt-Pinguin-Tag
+## Welt-Pinguin-Tag
 
 Sprüche zum Welt-Pinguin-Tag.
 
@@ -52,19 +50,17 @@ Sprüche zum Welt-Pinguin-Tag.
 
 > Drei von vier Stimmen in meinem Kopf wollen schlafen. Eine möchte unbedigt wissen, ob Pinguine Knie haben.
 
-## [](#hallo-pinguin-programm)Hallo-Pinguin-Programm
+## Hallo-Pinguin-Programm
 
 Hier findet ihr den Code für das Hallo Pinguin Programm in Python:
 
-    import pyfiglet
-
-    ascii_banner = pyfiglet.figlet_format("Hallo Pingu!")
+```Python
+import pyfiglet
+ascii_banner = pyfiglet.figlet_format("Hallo Pingu!")
     print(ascii_banner)
+```
 
-### [](#offene-todos)Offene Todos
-
-*   <input type="checkbox" class="task-list-item-checkbox" disabled=""> <del>Install Script</del> Add requirements.txt
-*   <input type="checkbox" class="task-list-item-checkbox" disabled=""> Use _graffiti_ font
-*   <input type="checkbox" class="task-list-item-checkbox" disabled=""> Add English translation (Hello Pingu)
-
-<script>const HIGHLIGHT_THEME = "white";</script></article>
+### Offene Todos
+- [ ] ~~Install Script~~ Add requirements.txt
+- [x] Use _grafitti_ <span style="font-Family:_grafitti_"> font
+- [x] Add English translation (Hello Pingu)
